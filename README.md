@@ -1,1 +1,1 @@
-# CPSC392
+# CPSC392 Introduction to Data Science
